@@ -1,2 +1,2 @@
-# rotate_retina_vessel_segment
+# artery-vein-segmentation
 We will release code soon
